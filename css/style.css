@@ -97,3 +97,21 @@
     padding: 5px 20px 6px 20px; 
     margin-top: -5px;
 }
+
+.header .header_icon {
+    text-align: center; 
+}
+.header .header_icon a {
+    width: 40px; 
+    height: 40px; 
+    display: inline-block; 
+    margin: 0 3px;
+}
+.header .header_icon a.icon1 {
+    background: url(../img/githubicon.png);
+    background-size: cover;
+}
+.header .header_icon a.icon1:hover {
+    background: url(../img/githubiconhover.png);
+    background-size: cover;
+}
