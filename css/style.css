@@ -108,10 +108,10 @@
     margin: 0 3px;
 }
 .header .header_icon a.icon1 {
-    background: url(../img/githubicon.png);
+    background: url(/img/githubicon.png);
     background-size: cover;
 }
 .header .header_icon a.icon1:hover {
-    background: url(../img/githubiconhover.png);
+    background: url(/img/githubiconhover.png);
     background-size: cover;
 }
